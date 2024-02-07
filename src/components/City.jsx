@@ -3,19 +3,8 @@ import styles from "./City.module.css";
 import { useEffect } from "react";
 import { useCities } from "../contexts/CitiesContext";
 import Spinner from "./Spinner";
-import Button from "./Button";
 import BackButton from "./BackButton";
-
-const flagemojiToPNG = (flag) => {
-  if (flag === undefined) return;
-
-  var countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
-    .map((char) => String.fromCharCode(char - 127397).toLowerCase())
-    .join("");
-  return (
-    <img src={`https://flagcdn.com/24x18/${countryCode}.png`} alt="flag" />
-  );
-};
+import flagemojiToPNG from "./flagToEmoji";
 
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
