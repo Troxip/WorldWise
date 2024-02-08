@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,775 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "6a34",
+      "cityName": "Karpinsk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-08T17:55:10.392Z",
+      "notes": "",
+      "position": {
+        "lat": "59.86964070806754",
+        "lng": "59.86964070806754"
+      }
+    },
+    {
+      "id": "0ed8",
+      "cityName": "Karpinsk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-08T17:55:10.392Z",
+      "notes": "fsdfsd",
+      "position": {
+        "lat": "59.86964070806754",
+        "lng": "59.86964070806754"
+      }
+    },
+    {
+      "id": "d700",
+      "cityName": "Ivdel’",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-08T17:55:30.387Z",
+      "notes": "Pidor Nahuj",
+      "position": {
+        "lat": "60.38671955355991",
+        "lng": "60.38671955355991"
+      }
+    },
+    {
+      "id": "360b",
+      "cityName": "Keban",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T17:58:53.167Z",
+      "notes": "Gavno",
+      "position": {
+        "lat": "38.75314619093471",
+        "lng": "38.75314619093471"
+      }
+    },
+    {
+      "id": "ed78",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "9d68",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "afe3",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "692d",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "f29a",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "0030",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "e5ec",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "202c",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "5078",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "8c25",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "9e4c",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "df65",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "f26e",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "a7ef",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "6a86",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "b267",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "a657",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "8c24",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "9c33",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "8458",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "e32f",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "14a7",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "ca49",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "42e8",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "b464",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "a4c3",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.979750933720716",
+        "lng": "39.979750933720716"
+      }
+    },
+    {
+      "id": "ec9b",
+      "cityName": "Cayirli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "39.91289633555756",
+        "lng": "39.91289633555756"
+      }
+    },
+    {
+      "id": "d0e8",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "0300",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "1209",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "37bb",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "0339",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "d6f5",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "f984",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "e13b",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "beeb",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "3c79",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "183e",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "d2bb",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "8d09",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "657f",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "d39b",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "e02e",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "0720",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "2615",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "44b8",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "050f",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:31.951Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "3944",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:59.583Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "b66a",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:59.583Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11378919157526",
+        "lng": "40.11378919157526"
+      }
+    },
+    {
+      "id": "8fbf",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:59.583Z",
+      "notes": "",
+      "position": {
+        "lat": "40.11575837576019",
+        "lng": "40.11575837576019"
+      }
+    },
+    {
+      "id": "4a9c",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:59.583Z",
+      "notes": "",
+      "position": {
+        "lat": "40.13557832026373",
+        "lng": "40.13557832026373"
+      }
+    },
+    {
+      "id": "7cfa",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:11:59.583Z",
+      "notes": "",
+      "position": {
+        "lat": "40.163001688449846",
+        "lng": "40.163001688449846"
+      }
+    },
+    {
+      "id": "f9fd",
+      "cityName": "Karpinsk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-08T18:15:53.346Z",
+      "notes": "",
+      "position": {
+        "lat": "59.87610273292076",
+        "lng": "59.87610273292076"
+      }
+    },
+    {
+      "id": "f76b",
+      "cityName": "Volchansk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-08T18:15:59.666Z",
+      "notes": "",
+      "position": {
+        "lat": "59.89341476731317",
+        "lng": "59.89341476731317"
+      }
+    },
+    {
+      "id": "c646",
+      "cityName": "Volchansk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-08T18:16:07.480Z",
+      "notes": "",
+      "position": {
+        "lat": "59.90529542111871",
+        "lng": "59.90529542111871"
+      }
+    },
+    {
+      "id": "1dd3",
+      "cityName": "Volchansk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-08T18:16:22.734Z",
+      "notes": "",
+      "position": {
+        "lat": "59.90529542111871",
+        "lng": "59.90529542111871"
+      }
+    },
+    {
+      "id": "18b2",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:16:28.307Z",
+      "notes": "",
+      "position": {
+        "lat": "40.00973529662184",
+        "lng": "40.00973529662184"
+      }
+    },
+    {
+      "id": "cadd",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:16:33.785Z",
+      "notes": "",
+      "position": {
+        "lat": "40.108012589026615",
+        "lng": "40.108012589026615"
+      }
+    },
+    {
+      "id": "559c",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:16:55.908Z",
+      "notes": "",
+      "position": {
+        "lat": "40.1825455584504",
+        "lng": "40.1825455584504"
+      }
+    },
+    {
+      "id": "1c05",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T18:16:57.805Z",
+      "notes": "",
+      "position": {
+        "lat": "40.29628651711716",
+        "lng": "40.29628651711716"
+      }
     }
   ]
 }
