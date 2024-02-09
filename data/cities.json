@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "82f9",
+      "cityName": "Tsageri",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-02-08T19:51:02.026Z",
+      "notes": "",
+      "position": {
+        "lat": "42.633958722673164",
+        "lng": "42.633958722673164"
+      }
+    },
+    {
+      "id": "1b60",
+      "cityName": "Tsageri",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-02-08T19:52:28.313Z",
+      "notes": "",
+      "position": {
+        "lat": "42.622970474911526",
+        "lng": "42.622970474911526"
+      }
+    },
+    {
+      "id": "44e0",
+      "cityName": "Bayburt",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-08T19:52:33.213Z",
+      "notes": "",
+      "position": {
+        "lat": "40.4323142901375",
+        "lng": "40.4323142901375"
+      }
+    }
+  ]
 }
