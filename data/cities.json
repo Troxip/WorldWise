@@ -13,27 +13,75 @@
       }
     },
     {
-      "id": "1b60",
-      "cityName": "Tsageri",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2024-02-08T19:52:28.313Z",
+      "id": "d0ca",
+      "cityName": "Otlukbeli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-02-09T15:27:20.283Z",
       "notes": "",
       "position": {
-        "lat": "42.622970474911526",
-        "lng": "42.622970474911526"
+        "lat": "40.0186754526281",
+        "lng": "40.0186754526281"
       }
     },
     {
-      "id": "44e0",
-      "cityName": "Bayburt",
+      "id": "6f21",
+      "cityName": "Otlukbeli",
       "country": "Turkiye",
       "emoji": "🇹🇷",
-      "date": "2024-02-08T19:52:33.213Z",
+      "date": "2024-02-09T15:35:56.822Z",
       "notes": "",
       "position": {
-        "lat": "40.4323142901375",
-        "lng": "40.4323142901375"
+        "lat": "40.02156760530186",
+        "lng": "40.02156760530186"
+      }
+    },
+    {
+      "id": "a578",
+      "cityName": "Chernushka",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-02-09T15:35:59.847Z",
+      "notes": "",
+      "position": {
+        "lat": "56.425806189781085",
+        "lng": "56.425806189781085"
+      }
+    },
+    {
+      "id": "f1cc",
+      "cityName": "Abasha",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-02-09T15:36:01.469Z",
+      "notes": "",
+      "position": {
+        "lat": "42.1906386569396",
+        "lng": "42.1906386569396"
+      }
+    },
+    {
+      "id": "a419",
+      "cityName": "Biyala",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-02-09T15:36:03.276Z",
+      "notes": "",
+      "position": {
+        "lat": "31.16580958786196",
+        "lng": "31.16580958786196"
+      }
+    },
+    {
+      "id": "192a",
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-02-09T15:36:07.042Z",
+      "notes": "",
+      "position": {
+        "lat": "26.667095801104814",
+        "lng": "26.667095801104814"
       }
     }
   ]
